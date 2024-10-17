@@ -7,12 +7,9 @@ El objetivo de esta tarea fue:
 Crear una sección Home que ocupe el 100% del alto visible de la ventana del navegador (100vh).
 Definir un fondo con un degradado de colores.
 Incluir una imagen PNG en la sección.
-Añadir un título y un texto acompañante utilizando Google Fonts para estilizar ambos elementos con fuentes diferentes.
-Implementar técnicas de posicionamiento y responsividad para asegurar que la sección Home se vea bien en todas las pantallas.
-Utilizar comentarios en el código CSS para organizar y explicar el código.
+Añadir estilos de letras, utilizando Google Fonts.
+Utilizar comentarios en el código CSS.
 Tecnologías Utilizadas
 HTML: Para la estructura del sitio.
 CSS: Para el diseño y estilo de la sección Home.
 Google Fonts: Para seleccionar y aplicar fuentes tipográficas al título y texto.
-Flexbox: Para alinear y centrar el contenido de la sección Home.
-Unidades de medida relativas y absolutas: Como vh, px, rem para lograr una sección Home responsiva.
