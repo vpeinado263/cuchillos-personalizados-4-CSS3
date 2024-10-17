@@ -1,0 +1,66 @@
+/****************************************************************************/
+/************Mi Cuenta Gamer Master****************/
+.cuenta > h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.registrate > h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #181717;
+    font-size: 3rem;
+}
+.registrate > .formulario > form > p {
+    color: #6a6970;
+}
+h1, h2 {
+    color: #2c3e50;
+}
+
+/* Main */
+main {
+    padding: 10px;
+    height: 400px;
+}
+
+/* Sección del Formulario */
+section {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+form p {
+    margin: 10px 0;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}

@@ -1,0 +1,66 @@
+/************Tecnica de Afilado**************/
+.tecnica > .afilado > h1 {
+    font-size: 14px;
+    font-size: 3em;
+}
+.tecnica > .afilado > p {
+    font-size: 1.5em;
+    padding: 12px;
+    color: #eaeaea;
+}
+.afilar > figure > #Alvor {
+    height: 500px;
+    width: 500px;
+}
+.afilar > figure > figcaption {
+    color: #000000;
+    font-size: 2em;
+}
+h1, h2 {
+    color: #2c3e50;
+}
+
+header {
+    color: rgb(17, 16, 16);
+    padding: 20px;
+    text-align: center;
+}
+
+header a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+article {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+article p {
+    line-height: 1.6;
+}
+
+
+
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+}
+

@@ -1,0 +1,46 @@
+/**********Acerca de Gamer Master Kanives************/
+.gamer > h1 {
+    font-size: 16px;
+    font-size: 4em
+}
+.master > .informacion > p {
+    font-size:1.5em;
+    padding: 2px;
+    color: #ebf2f9;
+}
+.master > .informacion > p:nth-child(3) {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: #f3e4d9;
+}
+#knives > figure > #logo {
+    height: 500px;
+    width: 500px;
+}
+h1 {
+    font-size: 2rem; 
+    color: #fff; }
+.informacion {
+    padding: 20px; 
+    background-color: #f0f0f0; 
+    border-radius: 5px; 
+    margin: 20px auto; 
+    max-width: 800px; 
+}
+
+.informacion p {
+    line-height: 1.6; 
+    margin-bottom: 15px; 
+}
+
+aside {
+    margin: 20px; 
+    text-align: center; 
+}
+aside img {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+}
+
+
+

@@ -1,0 +1,81 @@
+/*************Tipos de Modelos**************/
+.tipos > h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-size: 3em;
+    opacity: 0.5;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Kukri {
+    height: 200px;
+    width: 350px;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > p {
+    background-color: #000000;
+    color: #eaeaea;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Kerambit2 {
+    height: 200px;
+    width: 350px;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Gut-Knife {
+    height: 200px;
+    width: 350px;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Daga {
+    height: 200px;
+    width: 
+    350;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Estilete {
+    height: 200px;
+    width: 350px;
+}
+.artesanal > .modelos > div > table > tbody > tr > td > figure > #Tanto {
+    height: 200px;
+    width: 350px;
+}
+td > p {
+    font-size: 1.5rem;
+    border: solid rgb(43, 39, 39) 10px;
+}
+figure > figcaption {
+    color: #BE9561;
+}
+
+main > section > div > img {
+    height: 300px;
+    width: 300px;
+}
+.modelos > div > table {
+    color: rgb(32, 32, 31);
+}
+table {
+    border : 100px solid rgb(36, 35, 35);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+#Kukri {
+    height: 200px;
+    width: 350px;
+}
+#Kerambit2 {
+    height: 200px;
+    width: 350px;
+}
+#Gut-Knife {
+    height: 200px;
+    width: 350px;
+}
+#Daga {
+    height: 200px;
+    width: 
+    350;
+}
+#Estilete {
+    height: 200px;
+    width: 350px;
+}
+#Tanto {
+    height: 200px;
+    width: 350px;
+}

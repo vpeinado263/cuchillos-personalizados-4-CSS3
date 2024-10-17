@@ -1,0 +1,44 @@
+/************Cuchillo de acero al Carbono************/
+.cuchillo > .aceroalcarbono > div > h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:16px;
+    font-size: 4em;
+    color: #eaeaea;
+}
+.cuchillo > .aceroalcarbono > div > p {
+    font-size: 1.5em;
+    color: #eaeaea;
+}
+.cuchillo > .manejoadecuado > article > div > h2 {
+    font-size: 2rem;
+    color: #eaeaea;
+}
+.cuchillo > .manejoadecuado > article > div > p {
+    font-size: 1.5rem;
+    color: #eaeaea;
+}   
+#Dagaestilete {
+    height: 500px;
+    width: 700px;
+}
+section {
+    padding: 20px;
+}
+h1 ~ p {
+    color:#111010;
+}
+article > div > p {
+    color: rgb(73, 71, 68);
+}
+.hoja {
+    height: 300px;
+    width: 400px;
+}
+.kerambit1 {
+    width: 200px;
+}
+
+
+
+
+
