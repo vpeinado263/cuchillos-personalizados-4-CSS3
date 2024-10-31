@@ -1,19 +1,26 @@
-Tarea-4-Clase-CSS 
+# Tarea 4: Creación de la Sección Home
 
-Creación de la Sección Home
+## Descripción del Proyecto
+Este proyecto forma parte de la Tarea 4 del curso de Desarrollo Web Full Stack. En esta tarea, se desarrolló la sección Home de un sitio web, aplicando estilos avanzados con CSS para mejorar el diseño y la presentación de la página de inicio.
 
-Continuando con el desarrollo del sitio web, centrándome en la creación de la sección Home usando CSS, aplicando un diseño que ocupa toda la pantalla del navegador y utilizando efectos de estilo avanzados.
-
-Descripción de la Tarea
-
+## Consigna de la Tarea
 El objetivo de esta tarea fue:
+- Crear una sección Home que ocupe el 100% del alto visible de la ventana del navegador (100vh).
+- Definir un fondo con un degradado de colores.
+- Incluir una imagen en formato PNG dentro de la sección.
+- Añadir estilos tipográficos al texto y título usando Google Fonts.
+- Incluir comentarios en el código CSS para mejorar la legibilidad.
 
-Crear una sección Home que ocupe el 100% del alto visible de la ventana del navegador (100vh).
-Definir un fondo con un degradado de colores.
-Incluir una imagen PNG en la sección.
-Añadir estilos de letras, utilizando Google Fonts.
-Utilizar comentarios en el código CSS.
-Tecnologías Utilizadas
-HTML: Para la estructura del sitio.
-CSS: Para el diseño y estilo de la sección Home.
-Google Fonts: Para seleccionar y aplicar fuentes tipográficas al título y texto.
+## Tecnologías Utilizadas
+- **HTML**: Para la estructura de la sección.
+- **CSS**: Para el diseño y los estilos avanzados de la sección Home.
+- **Google Fonts**: Para la selección y aplicación de fuentes tipográficas al título y texto.
+
+## Temática Seleccionada
+La sección Home fue diseñada para ocupar toda la pantalla del navegador, incluyendo un degradado de fondo y una imagen en formato PNG. Las fuentes tipográficas fueron elegidas a través de Google Fonts para lograr una presentación visual más atractiva y moderna.
+
+Puedes ver el proyecto en vivo aquí: [Tarea 4 - Clase CSS](URL_DE_TU_DEMO)
+
+## Autor
+**[Tu Nombre o Usuario en GitHub]**
+
