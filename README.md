@@ -1,7 +1,7 @@
-# Tarea 4: Creación de la Sección Home
+# Tarea-4-clase-CSS 
 
 ## Descripción del Proyecto
-Este proyecto forma parte de la Tarea 4 del curso de Desarrollo Web Full Stack. En esta tarea, se desarrolló la sección Home de un sitio web, aplicando estilos avanzados con CSS para mejorar el diseño y la presentación de la página de inicio.
+Creación de la Sección Home, este proyecto forma parte de la Tarea 4 del curso de Desarrollo Web Full Stack. En esta tarea, se desarrolló la sección Home de un sitio web, aplicando estilos avanzados con CSS para mejorar el diseño y la presentación de la página de inicio.
 
 ## Consigna de la Tarea
 El objetivo de esta tarea fue:
