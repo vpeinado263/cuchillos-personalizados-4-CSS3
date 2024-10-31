@@ -19,8 +19,6 @@ El objetivo de esta tarea fue:
 ## Temática Seleccionada
 La sección Home fue diseñada para ocupar toda la pantalla del navegador, incluyendo un degradado de fondo y una imagen en formato PNG. Las fuentes tipográficas fueron elegidas a través de Google Fonts para lograr una presentación visual más atractiva y moderna.
 
-Puedes ver el proyecto en vivo aquí: [Tarea 4 - Clase CSS](URL_DE_TU_DEMO)
+Puedes ver el proyecto en vivo aquí: [Tarea 4 - Clase CSS](https://tarea-4-clase-css.vercel.app/index.html)
 
-## Autor
-**[Tu Nombre o Usuario en GitHub]**
 
