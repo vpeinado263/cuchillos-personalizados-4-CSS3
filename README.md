@@ -12,8 +12,8 @@ El objetivo de esta tarea fue:
 - Incluir comentarios en el código CSS para mejorar la legibilidad.
 
 ## Tecnologías Utilizadas
-- **HTML**: Para la estructura de la sección.
-- **CSS**: Para el diseño y los estilos avanzados de la sección Home.
+- **HTML5**: Para la estructura de la sección.
+- **CSS3**: Para el diseño y los estilos avanzados de la sección Home.
 - **Google Fonts**: Para la selección y aplicación de fuentes tipográficas al título y texto.
 
 ## Temática Seleccionada
